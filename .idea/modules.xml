@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bingoo.iml" filepath="$PROJECT_DIR$/bingoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud/cloud-common/cloud-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud/cloud-parent/cloud-parent.iml" filepath="$PROJECT_DIR$/cloud/cloud-parent/cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/cloud/eureka-server/eureka-server.iml" />
     </modules>
   </component>
 </project>

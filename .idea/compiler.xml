@@ -8,14 +8,15 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bingoo" />
         <module name="cloud-common" />
-        <module name="cloud-parent" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bingoo" target="1.8" />
-      <module name="cloud" target="1.5" />
+      <module name="cloud" target="1.8" />
       <module name="cloud-common" target="1.8" />
       <module name="cloud-parent" target="1.8" />
+      <module name="eureka-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

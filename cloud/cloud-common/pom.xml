@@ -4,9 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
         <groupId>xiao.bin</groupId>
-        <artifactId>cloud-parent</artifactId>
+        <artifactId>cloud</artifactId>
         <version>0.0.1</version>
-        <relativePath>../cloud-parent/pom.xml</relativePath>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
