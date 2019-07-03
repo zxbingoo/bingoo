@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/bingoo.iml" filepath="$PROJECT_DIR$/bingoo.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud.iml" filepath="$PROJECT_DIR$/cloud/cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/cloud-common/cloud-common.iml" filepath="$PROJECT_DIR$/cloud/cloud-common/cloud-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/cloud/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/cloud/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud/eureka-producer/eureka-producer.iml" filepath="$PROJECT_DIR$/cloud/eureka-producer/eureka-producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/cloud/eureka-server/eureka-server.iml" />
     </modules>
   </component>
