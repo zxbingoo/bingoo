@@ -8,6 +8,10 @@ eureka:
 server:
   port: 9000
 
+feign:
+  hystrix:
+    enabled: true
+
 
 logging:
   file: ./consumer.log
