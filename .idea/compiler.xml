@@ -21,6 +21,7 @@
       <module name="eureka-consumer" target="1.8" />
       <module name="eureka-producer" target="1.8" />
       <module name="eureka-server" target="1.8" />
+      <module name="Netty" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
