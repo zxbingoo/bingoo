@@ -24,9 +24,8 @@
     <dependencies>
         <dependency>
             <groupId>io.netty</groupId>
-            <artifactId>netty-transport</artifactId>
-            <version>RELEASE</version>
-            <scope>compile</scope>
+            <artifactId>netty-all</artifactId>
+            <version>4.1.32.Final</version>
         </dependency>
     </dependencies>
 
